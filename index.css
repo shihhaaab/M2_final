@@ -1,0 +1,44 @@
+#top {
+    background-color: aquamarine;
+    margin-top: 10%;
+    margin-right: 10%;
+    margin-left: 30%;
+    margin-bottom: 10%;
+    padding: 10px;
+}
+
+div img {
+    width: 200px;
+    height: 200px;
+    float: left;
+    padding-right: 10px;
+}
+
+button {
+   
+    margin-left: 85%;
+}
+
+footer img {
+    width: 150px;
+    height: 150px;
+    padding: 5px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding-bottom: 30px;
+    
+    
+}
+
+.col1 {
+    width: 50%;
+}
+
+.col2 {
+    margin-left: 50%;
+    width: 50%;
+}
+
